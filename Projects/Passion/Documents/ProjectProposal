@@ -1,1 +1,38 @@
-Uplodad  the project proposal here
+SE (F&P) Project Plan Template 
+Note: this is a “living document”, meaning its content will change with the implementation of the project. Use it to plan the project to ensure on time delivery of each project deliverable. Remove this text and the descriptive paragraphs in each section including this line (given in blue) stating what to do before you add this to your repository or turn it in to your instructor.
+
+
+
+Project Title:Trapper
+
+Document :About  3d game
+
+Creation date:12/09/2015
+
+Created By:Syam Patnala.
+
+Client :All the PC users.
+
+Brief problem statement: 
+I want to build a 3D game. The game is that a person will be in the forest along with a gun, he need to hunt the animals which are running infornt of him. He will get a points for each shot if he hit the target.
+
+Customers:All the PC users
+
+Platform:It is an application on the PC .
+
+Goal:
+The main Goal of the application is to give the mental pleasure for the people who play this  
+game.
+
+Development Environment:
+Sublime Text Editor for reading Source files, Eclipse as the IDE, Game Engines like Unity, Cocos2d, 
+Libgdx, Compilers for c, c++, Java, Python.
+
+Milestone Schedule:
+
+Milestone                                 Due Date     Release  Deliverable?   
+Draft requirements/Documentation          15/09/2015   R1        No
+Reading and Understanding of Source Files 30/09/2015   R1        No
+Prototype of game                15/10/2015   Pre-Beta  Yes
+First Version of game             30/10/2015   Beta     Yes
+Second Version/Final of game      30/11/2015   Final     Yes
