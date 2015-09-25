@@ -30,9 +30,8 @@ Libgdx, Compilers for c, c++, Java, Python.
 
 Milestone Schedule:
 
-Milestone                                 Due Date     Release  Deliverable?   
-Draft requirements/Documentation          15/09/2015   R1        No
-Reading and Understanding of Source Files 30/09/2015   R1        No
-Prototype of game                15/10/2015   Pre-Beta  Yes
-First Version of game             30/10/2015   Beta     Yes
-Second Version/Final of game      30/11/2015   Final     Yes
+Milestone                                  Due Date     Release   Deliverable?   
+Draft requirements/Documentation           15/09/2015    R1         No
+Reading and Understanding of Source Files  30/09/2015   R1        Yes
+First Version of game                      30/10/2015     Beta      Yes
+Second Version/Final of game               30/11/2015    Final     Yes
